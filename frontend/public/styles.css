@@ -1,0 +1,117 @@
+  .heading {
+    font-size: 50px;
+    font-weight: bold;
+    border-bottom: 5px solid;
+  }
+  
+  .app1 {
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    height: 100vh;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  }
+  
+  input[type="submit"] {
+    margin-top: 10px;
+    cursor: pointer;
+    font-size: 15px;
+    background: #01d28e;
+    border: 1px solid #01d28e;
+    color: #fff;
+    padding: 10px 20px;
+    margin: 2px;
+  }
+  .cancelb1 {
+      margin-top: 10px;
+      cursor: pointer;
+      font-size: 15px;
+      background: #01d28e;
+      border: 1px solid #01d28e;
+      color: #fff;
+      padding: 10px 20px;
+      position: relative;
+      left:90%;
+  }
+  
+  .cancelb1:hover {
+      background: #6cf0c2;
+  }
+  .cancelb{
+    margin-top: 10px;
+      cursor: pointer;
+      font-size: 15px;
+      background: #01d28e;
+      border: 1px solid #01d28e;
+      color: #fff;
+      padding: 10px 20px;
+      margin:2px;
+  }
+  .cancelb:hover{
+    background: #6cf0c2;
+  }
+  input[type="submit"]:hover {
+    background: #6cf0c2;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .login-form {
+    background-color: white;
+    padding: 2rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  .list-container {
+    display: flex;
+  }
+  
+  .error {
+    color: red;
+    font-size: 12px;
+  }
+  
+  .title {
+    font-size: 25px;
+    margin-bottom: 20px;
+  }
+  
+  .input-container {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin: 10px;
+  }
+  .fast {
+    height: 25px;
+    border: none;
+  }
+  .formbg {
+    background-color: rgba(80, 163, 162, 0.5);
+    padding: 2rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin:10% 30%;
+  }
+  .formbg1 {
+    background-color: rgba(14, 151, 106, 0.5);
+    padding: 2rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    /* margin: 10% 30%; */
+    width:50%;
+  }
+  .pad {
+    padding: 2% 30%;
+  }
+  .hlogin {
+    text-align: center;
+    font-size: 3rem;
+  }
+  .finals {
+    border: none;
+    background: none;
+  }
+  

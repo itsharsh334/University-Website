@@ -1,0 +1,200 @@
+ .navbar1 {
+    background-color: #096d4a;
+} 
+.trialsb{
+    padding: 0;
+    height: 100%;
+}
+.customcard1{
+    background-color: lightblue;
+    padding: 1%;
+        
+}
+.pad2{
+    padding-top: 10%;
+    padding-left:5%;
+    margin-top: 5%;
+    padding-right: 5%;
+}
+.pad5{
+    padding-left:7%;
+    padding-top:1%;
+    padding-right: 1%;
+}
+.pad4 {
+    padding-left: 2%;
+    padding-top: 5%;
+    margin-top: 5%;
+    padding-right: 2%;
+}
+.student-heading{
+    text-align: center;
+}
+@media screen and (max-width:500px) {
+    .pad2{
+        padding-top: 50%;
+        padding-left: 70%;
+        padding-right: 2%;
+        font-size: 1rem;
+        margin-top: 5%;
+    }
+}
+.faculty-heading{
+    color:darkblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    font-weight: 900;
+    text-align: center;
+}
+.customcard{
+    padding: 2%;
+    text-align: center;
+}
+.faculty-image{
+    height:60%;
+    width:90%;
+    border-radius: 100%;
+}
+.harvard{
+    
+    font-size: 2.5rem;
+    
+}
+/* .menu-bars {
+    margin-left: 2rem;
+    font-size: 2rem;
+    background: none;
+} */
+
+/* .nav-menu {
+    background-color: #109164;
+    width: 250px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    left: -100%;
+    transition: 850ms;
+} */
+
+/* .nav-menu.active {
+    left: 0;
+    transition: 350ms;
+} */
+
+/* .nav-text {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding: 8px 0px 8px 16px;
+    list-style: none;
+    height: 60px;
+} */
+/* .pro-inner-item{
+    padding-left:0 ;
+} */
+.nav-text a {
+    text-decoration: none;
+    color: #f5f5f5;
+    font-size: 18px;
+    width: 95%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding: 0 16px;
+    border-radius: 4px;
+
+}
+
+.nav-text a:hover {
+    background-color: #44ff1a;
+}
+
+/* .nav-menu-items {
+    width: 100%;
+} */
+
+/* .navbar-toggle {
+    background-color: #109164;
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+} */
+
+/* .hp{
+    position: absolute;
+    right: 30px;
+    color:white;
+    font-family:'Courier New', Courier, monospace;
+} */
+/* svg{
+    margin-right: 20px;
+} */
+.pad1{
+    padding:5% 9% 0 13%;
+}
+@media only screen and (max-width:1000px) {
+    .pad1{
+        padding:5% 2% 0 23%;
+    }
+}
+.pad3{
+    padding: 5% 3% 1% 10%;
+    background-color: antiquewhite;
+}
+.mainHeading{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 900;
+    color: darkslategray;
+    background-color: antiquewhite;
+    margin-bottom: 0;
+    padding-top: 2%;
+}
+#testimonials {
+    background-color: #ef8172;
+    text-align: center;
+    color: #fff;
+}
+
+.pebbles {
+    border-radius: 10%;
+    width: 90%;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+.carbutton:hover {
+    background-color: #ff4c68;
+}
+.edit:hover{
+    color:#fff;
+    background-color:green;
+}
+.delete:hover{
+    color:#fff;
+    background-color:red;
+}
+.buttondiva{
+    position: absolute;
+    right:0;
+}
+.buttondivb {
+    position: absolute;
+    left:0;
+}
+.buttondiv2{
+    position: relative;
+    margin-bottom: 10%;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
