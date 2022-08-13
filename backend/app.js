@@ -9,7 +9,7 @@ const cors = require("cors");
 const router = require("./routes/router");
 // const router = express.Router();
 const DB =
-  "mongodb+srv://harsh:Sherlock@cluster0.9wlpo.mongodb.net/?retryWrites=true&w=majority";
+  "mongodb+srv://name:password@cluster0.9wlpo.mongodb.net/?retryWrites=true&w=majority";
 const port = process.env.PORT || 8003;
 app.use(cors());
 app.use(express.json());
